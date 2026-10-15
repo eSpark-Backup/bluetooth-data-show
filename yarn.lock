@@ -3195,10 +3195,10 @@ get-caller-file@^2.0.1:
   resolved "https://registry.yarnpkg.com/get-caller-file/-/get-caller-file-2.0.5.tgz#4f94412a82db32f36e3b0b9741f8a97feb031f7e"
   integrity sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==
 
-get-dev-paths@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/get-dev-paths/-/get-dev-paths-0.1.1.tgz#b9386bd5b9eb08f1d815631c90c804696a7223a0"
-  integrity sha512-DiDMz2fD7Il3t+KrMoEj4OjHH7BOwbUFkPFBRCEyiwCOFfhymK0HEqYBz4aaG1jYz8RF4JBy9R6YObN46qyI1Q==
+get-dev-paths@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/get-dev-paths/-/get-dev-paths-0.2.0.tgz#afa7244c659ba7f46c38708f43bf5630d68c59b0"
+  integrity sha512-DqRTfx5itL0AH+A3SVGfCyOu4SN8w8P9cYiZLQeY6nNk/UBFHXdaiIzaaPt/5a1ssv96XFchh5Go2UVq74vWbQ==
   dependencies:
     realpath-native "^1.0.2"
     type-error "^1.0.3"
