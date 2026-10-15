@@ -14,14 +14,14 @@
     "buffer": "^5.6.0",
     "get-dev-paths": "^0.1.1",
     "react": "16.13.1",
-    "react-native": "0.63.2",
+    "react-native": "0.88.0",
     "react-native-bluetooth-serial-next": "^1.2.3",
     "react-native-bluetooth-status": "^1.5.1",
     "react-native-cli": "^2.0.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.6",
-    "@babel/runtime": "^7.11.2",
+    "@babel/core": "^7.29.6",
+    "@babel/runtime": "^8.0.7",
     "@react-native-community/eslint-config": "^2.0.0",
     "babel-jest": "^26.3.0",
     "eslint": "^7.8.1",
