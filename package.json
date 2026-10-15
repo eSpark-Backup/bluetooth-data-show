@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@remobile/react-native-toast": "^1.0.7",
-    "buffer": "^5.6.0",
+    "buffer": "^6.0.3",
     "get-dev-paths": "^0.1.1",
     "react": "16.13.1",
     "react-native": "0.63.2",
